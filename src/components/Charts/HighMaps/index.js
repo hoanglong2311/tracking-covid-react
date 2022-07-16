@@ -87,6 +87,5 @@ const HighMaps = ({mapData}) => {
     />
   );
 };
-
 export default React.memo(HighMaps);
 
